@@ -1,0 +1,5 @@
+*.test
+*.out
+.vscode
+wx/miniprogram/**/*.js
+node_modules
